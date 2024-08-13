@@ -1,4 +1,4 @@
-# Curso digital - Git- versionamento
+**# Curso digital - Git- versionamento
 
 ## Gravando mudanças no repositório
 
@@ -11,3 +11,4 @@
 *comando git push (2 tentativa)
 
 ** comando git pull
+** comando git fetch
